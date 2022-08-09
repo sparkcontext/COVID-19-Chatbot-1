@@ -1,4 +1,5 @@
 import "./styles.css";
+import './main.css';
 import { useState } from "react";
 import MetaTags from "react-meta-tags";
 import Fade from "react-reveal/Fade";
